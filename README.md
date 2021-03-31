@@ -1,1 +1,1 @@
-# exemple-mapstruct
+# example-mapstruct
